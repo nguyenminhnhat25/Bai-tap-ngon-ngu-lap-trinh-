@@ -1,7 +1,7 @@
 # Bài thực hành đầu năm
 ## Bài tập đầu tiên.
-- [Bài 1](https://www.jdoodle.com/embed/v0/5rDz)
+- [Bài 1](https://www.jdoodle.com/a/5rDz)
 ## Bài tập thứ hai
-- [Bài 2](https://www.jdoodle.com/embed/v0/5u8B)
+- [Bài 2](https://www.jdoodle.com/a/5u8B)
 ## Bài tập thứ ba
-- [Bài 3](https://www.jdoodle.com/embed/v0/5tD4)
+- [Bài 3](https://www.jdoodle.com/a/5tD4)
